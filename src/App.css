@@ -1,0 +1,78 @@
+body{
+  background-color: bisque;
+}
+.main{
+  background-color: aliceblue;
+  width: 500px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 520px;
+  border: 2px solid red;
+}
+.heading{
+  margin-top: 100px;
+  text-align: center;
+  margin-top: 70px;
+}
+.btn{
+  margin-left: 140px;
+  margin-top: 100px;
+  padding: 20px;
+  font-size: larger;
+  font-weight: bolder;
+  background-color: aqua;
+}
+.btn:hover{
+  background-color: bisque;
+  cursor: pointer;
+}
+.start{
+  position: fixed;
+  width: 1090px;
+  height: 600px;
+  background-color: rgb(248, 245, 224);
+  margin-left: 220px;
+  margin-top: 100px;
+  border: 2px solid black;
+}
+.conack{
+  margin-left: 250px;
+  margin-top: 40px;
+}
+.showtime{
+  margin-left: 445px;
+}
+.voteinp{
+  margin-left: 420px;
+}
+.votebtn{
+  background-color: aqua;
+  width: 60px;
+  padding: 3px;
+  border-radius: 7px;
+}
+.votebtn:hover{
+  background-color: rgb(248, 245, 224);
+  cursor: pointer;
+}
+#myTable{
+  margin-left: 310px;
+  margin-top: 50px;
+
+}
+.candidates-table {
+  border-collapse: collapse;
+  width: 50%;
+  text-align:center;
+}
+
+.candidates-table th, .candidates-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.note{
+  margin-top: 185px;
+  margin-left: 10px;
+}
+
